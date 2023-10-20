@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shiro S Criszia-Mallon - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h1>Shiro S Criszia-Mallon</h1>
+            <p>Data Analyst</p>
+            <p>Passionate about data and first exposure into web development.</p>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+           <div class="project-card">
+    <h3>Project Name</h3>
+    <p>Description of the project.</p>
+    <a href="https://github.com/ShiroSCriszia" target="_blank">GitHub Repository</a>
+
+        </div>
+
+    <h3>Project Name</h3>
+    <p>Description of the project.</p>
+    <a href="https://github.com/ShiroSCriszia" target="_blank">GitHub Repository</a>
+
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: ShiroSCriszia@gmail.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/shirocriszia/" target="_blank">LinkedIn Profile</a></p>
+        </div>
+    </section>
+</body>
+
+</html>
